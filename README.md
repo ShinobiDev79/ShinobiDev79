@@ -60,5 +60,5 @@ Bienvenido a mi espacio de aprendizaje. Soy un desarrollador en formación enfoc
 
 Estoy abierto a discutir sobre tecnología, seguridad y desarrollo. ¡No dudes en contactar a través de GitHub!
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShinobiDev79))
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShinobiDev79)
 <!-- Elimina LinkedIn/Twitter si revelan identidad -->
