@@ -22,9 +22,7 @@ Bienvenido a mi espacio de aprendizaje. Soy un desarrollador en formación enfoc
 
 **Desarrollo:**
 [![MySQL](https://img.shields.io/badge/MySQL-F5C32E?style=for-the-badge&logo=mysql&logoColor=000000)](https://www.mysql.com/)
-<a href="https://www.oracle.com/java/" target="_blank">
-  <img src="https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-</a>
+[![Java](https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=java&logoColor=white)](https://www.oracle.com/java/)
 [![Python](https://img.shields.io/badge/Python-0FA958?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 <!--
 [![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
