@@ -41,8 +41,7 @@ Bienvenido a mi espacio de aprendizaje. Soy un desarrollador en formación enfoc
 **En aprendizaje:**
 <!--`Docker` `OWASP Top 10` `Criptografía básica` `Análisis de malware`
 -->
-[![Curso Kali Linux](https://img.shields.io/badge/Curso_Kali-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/playlist?list=PLg7ZNf8WsbWAeoCT0j4HtptN3-v9KLILN)
-
+[![Curso Kali](https://img.shields.io/badge/Curso_Kali-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/playlist?list=PLg7ZNf8WsbWAeoCT0j4HtptN3-v9KLILN)
 <!--### 📚 Áreas de Estudio
 
 | Área | Enfoque |
