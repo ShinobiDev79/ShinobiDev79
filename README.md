@@ -56,10 +56,8 @@ Bienvenido a mi espacio de aprendizaje. Soy un desarrollador en formación enfoc
 -->
 ### 📈 Actividad
 
-![Estadísticas](https://github-readme-stats.vercel.app/api?username=ShinobiDev79&show_icons=true&theme=radical&hide_border=false&hide_title=true)
-![Lenguajes Más Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=ShinobiDev79&layout=compact&theme=radical&hide_border=false&hide_title=true)
-
 ![Métricas de GitHub](./github-metrics.svg)
+
 ---
 
 ### 💬 Conecta
