@@ -18,26 +18,15 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Madrid
 
-          # 1. Calendario Isométrico
+          # 1. Vista Isométrica de Contribuciones 3D
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
 
-          # 2. Hábitos (Configuración rápida para evitar timeout)
-          plugin_habits: yes
-          plugin_habits_from: activity # Usa eventos recientes en lugar de escanear repositorios
-          plugin_habits_facts: yes
-          plugin_habits_charts: yes
-          plugin_habits_days: 14
-
-          # 3. Lenguajes
+          # 2. Desglose Avanzado de Lenguajes
           plugin_languages: yes
           plugin_languages_details: bytes-size, percentage
           plugin_languages_limit: 8
           plugin_languages_sections: most-used
 
-          # 4. Logros (Ajuste de estabilidad)
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-
-          # 5. Líneas de código
+          # 3. Registro de Líneas de Código Totales
           plugin_lines: yes
